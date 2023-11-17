@@ -1,0 +1,469 @@
+<style type="text/css">
+.color-black {
+  fill: #000000;
+}
+.color-white {
+  fill: #ffffff;
+}
+.stroke-black {
+  stroke: #000000;
+}
+
+.logo-playgames-clippath-color-gradient-green {
+  clip-path: url(#clippath-playgames-color-gradient-green);
+}
+.logo-playgames-clippath-color-yellowgreen {
+  clip-path: url(#clippath-playgames-color-yellowgreen);
+}
+.logo-playgames-clippath-gradient-green {
+  clip-path: url(#clippath-playgames-gradient-green);
+}
+.logo-playgames-clippath-green {
+  clip-path: url(#clippath-playgames-green);
+}
+
+.color-3ds-gradient-red {
+  fill: url(#color-gradient-red-3ds);
+}
+.color-blizzard-gradient-blue {
+  fill: url(#color-gradient-blue-blizzard);
+}
+.color-gog-gradient-purple {
+  fill: url(#color-gradient-purple-gog);
+}
+.color-minecraft-gradient-brown {
+  fill: url(#color-gradient-brown-minecraft);
+}
+.color-origin-gradient-orange {
+  fill: url(#color-gradient-orange-origin);
+}
+.color-playgames-gradient-green {
+  fill: url(#color-gradient-green-playgames);
+}
+.stroke-playgames-gradient-green {
+  stroke: url(#color-gradient-green-playgames);
+  stroke-width: 96px;
+}
+.color-playstation-gradient-blue {
+  fill: url(#color-gradient-blue-playstation);
+}
+.color-pokemongo-gradient-red {
+  fill: url(#color-gradient-red-pokemongo);
+}
+.color-steam-gradient-blue {
+  fill: url(#color-gradient-blue-steam);
+}
+.color-switch-gradient-red {
+  fill: url(#color-gradient-red-switch);
+}
+.color-ubisoft-gradient-pink {
+  fill: url(#color-gradient-pink-ubisoft);
+}
+.color-xbox-gradient-green {
+  fill: url(#color-gradient-green-xbox);
+}
+
+.color-3ds-red {
+  fill: #E70009;
+}
+.color-amazon-blue {
+  fill: #00A8E1;
+}
+.color-apple-grey {
+  fill: #999999;
+}
+.color-artstation-blue {
+  fill: #13AFF0;
+}
+.color-bandcamp-blue {
+  fill: #1ea0c3;
+}
+.color-behance-blue {
+  fill: #0757fe;
+}
+.color-bitbucket-blue {
+  fill: #0052CC;
+}
+.color-bitbucket-light-blue {
+  fill: #2684FF;
+}
+.color-blizzard-blue {
+  fill: #0566b0;
+}
+.color-btc-orange {
+  fill: #ff9900;
+}
+.color-cashapp-green {
+  fill: #00d632;
+  /* Alternate: #28c101 */
+}
+.color-codepen-grey {
+  fill: #1e1f26;
+}
+.color-deviantart-green {
+  fill: #02e49b;
+}
+.color-digg-blue {
+  fill: #005be2;
+}
+.color-discord-purple {
+  fill: #7289DA;
+}
+.color-disqus-blue {
+  fill: #2E9FFF;
+}
+.color-dribbble-pink {
+  fill: #e94c89;
+}
+.color-dropbox-blue {
+  fill: #4280ff;
+}
+.color-duolingo-green {
+  fill: #78C701;
+}
+.color-duolingo-grey {
+  fill: #AAAAAA;
+}
+.stroke-duolingo-grey {
+  stroke: #AAAAAA;
+  stroke-width: 8;
+}
+.color-duolingo-offwhite {
+  fill: #FCFDFB;
+}
+.color-ebay-yellow {
+  fill: #F5AF02;
+}
+.color-eth-purple {
+  fill: #716b94;
+}
+.color-etsy-orange {
+  fill: #f45800;
+}
+.color-facebook-blue {
+  fill: #1778f2;
+}
+.color-fandom-flame-pink {
+  fill: #fa005a;
+}
+.color-fandom-flame-yellow {
+  fill: #ffc500;
+}
+.color-fandom-heart-blue {
+  fill: #00d6d6;
+}
+.color-fiverr-green {
+  fill: #00b22d;
+}
+.color-flickr-blue {
+  fill: #0461dd;
+}
+.color-foursquare-pink {
+  fill: #FA4779;
+}
+.color-github-grey {
+  fill: #24292d;
+}
+.color-gitlab-orange {
+  fill: #F96424;
+}
+.color-gmail-red {
+  fill: #F44236;
+}
+.color-gmbinder-purple {
+  fill: #240e61;
+}
+.color-gog-purple {
+  fill: #935CD0;
+}
+.color-goodreads-beige {
+  fill: #eceadd;
+}
+.color-goodreads-brown {
+  fill: #382110;
+}
+.stroke-goodreads-brown {
+  stroke: #382110;
+  stroke-width: 0.4;
+}
+.color-google-red {
+  fill: #F44236;
+}
+.color-googlemaps-green {
+  fill: #1aa260;
+}
+.color-googleplay-blue {
+  fill: #00D3FF;
+}
+.stroke-googleplay-blue {
+  stroke: #00D3FF;
+  stroke-width: 11;
+}
+.stroke-googleplay-outline-blue {
+  fill: none;
+  stroke: #00D3FF;
+  stroke-width: 8;
+}
+.color-googleplay-green {
+  fill: #00EE76;
+}
+.stroke-googleplay-green {
+  stroke: #00EE76;
+  stroke-width: 11;
+}
+.stroke-googleplay-outline-green {
+  fill: none;
+  stroke: #00EE76;
+  stroke-width: 8;
+}
+.color-googleplay-grey {
+  fill: #eceadd;
+}
+.stroke-googleplay-circle-grey {
+  stroke: #dbd9cc;
+  stroke-width: 5;
+}
+.stroke-googleplay-triangle-outline-grey {
+  fill: none;
+  stroke: #b9b7aa;
+  stroke-width: 8;
+}
+.color-googleplay-red {
+  fill: #F43249;
+}
+.stroke-googleplay-red {
+  stroke: #F43249;
+  stroke-width: 11;
+}
+.stroke-googleplay-outline-red {
+  fill: none;
+  stroke: #F43249;
+  stroke-width: 8;
+}
+.color-googleplay-yellow {
+  fill: #FFD900;
+}
+.stroke-googleplay-yellow {
+  stroke: #FFD900;
+  stroke-width: 11;
+}
+.stroke-googleplay-outline-yellow {
+  fill: none;
+  stroke: #FFD900;
+  stroke-width: 8;
+}
+.color-gravatar-blue {
+  fill: #1E8CBE;
+}
+.color-imgur-green {
+  fill: #89C623;
+}
+.color-instagram-pink {
+  fill: #f00075;
+}
+.color-kickstarter-green {
+  fill: #05CE78;
+}
+.color-kofi-blue {
+  fill: #00b9fe;
+}
+.color-kofi-pink {
+  fill: #ff4ea3;
+}
+.color-kofi-red {
+  fill: #ff5e5b;
+}
+.color-lastfm-red {
+  fill: #e21b24;
+}
+.color-linkedin-blue {
+  fill: #0d66c2;
+}
+.color-ltc-grey {
+  fill: #bebebe;
+}
+.color-mastodon-blue {
+  fill: #3288d4;
+}
+.color-medium-green {
+  fill: #02ab6c;
+}
+.color-meetup-pink {
+  fill: #f6405f;
+}
+.color-minecraft-dark-brown {
+  fill: #61371F;
+}
+.color-minecraft-light-brown {
+  fill: #C28340;
+}
+.color-mix-orange {
+  fill: #FF8126;
+}
+.color-myspace-blue {
+  fill: #6699cc;
+}
+.color-nexus-blue {
+  fill: #8197ec;
+}
+.color-origin-orange {
+  fill: #F05A22;
+}
+.color-patreon-red {
+  fill: #ff424d;
+}
+.color-paypal-blue {
+  fill: #0070BA;
+}
+.color-periscope-blue {
+  fill: #3FA4C4;
+}
+.color-periscope-red {
+  fill: #DB5248;
+}
+.color-pinterest-red {
+  fill: #e60122;
+}
+.color-playgames-green {
+  fill: #00B058;
+}
+.stroke-playgames-green {
+  stroke: #00B058;
+  stroke-width: 96px;
+}
+.color-playgames-handle-left-green {
+  fill: #00E26B;
+}
+.color-playgames-handle-right-green {
+  fill: #00B058;
+}
+.color-playgames-triangle-green {
+  fill: #1E7D49;
+}
+.color-playgames-yellowgreen {
+  fill: #c1cd32;
+}
+.color-playstation-blue {
+  fill: #003087;
+}
+.color-pocket-red {
+  fill: #ef4155;
+}
+.color-pokemongo-red {
+  fill: #E70009;
+}
+.color-quora-red {
+  fill: #b92b27;
+}
+.color-reddit-blue {
+  fill: #9494FF;
+}
+.color-reddit-orange {
+  fill: #ff4500;
+}
+.color-riot-red {
+  fill: #d22a36;
+}
+.color-rockstar-yellow {
+  fill: #FFA500;
+}
+.color-skype-blue {
+  fill: #0478d7;
+}
+.color-slack-blue {
+  fill: #36c5f0;
+}
+.color-slack-green {
+  fill: #2eb67d;
+}
+.color-slack-red {
+  fill: #e01e5a;
+}
+.color-slack-yellow {
+  fill: #ecb22e;
+}
+.color-snapchat-yellow {
+  fill: #fefc00;
+}
+.color-soundcloud-orange {
+  fill: #ff5600;
+}
+.color-sourceforge-orange {
+  fill: #f60;
+}
+.color-spotify-green {
+  fill: #1bd760;
+}
+.color-stackoverflow-orange {
+  fill: #F47F24;
+}
+.color-steam-blue {
+  fill: #136497;
+}
+.color-steam-blue-alternate {
+  fill: #1387B8;
+}
+.color-steam-lessnavy-blue {
+  fill: #144B7E;
+}
+.color-steam-navy-blue {
+  fill: #132E62;
+}
+.color-switch-red {
+  fill: #E70009;
+}
+.color-telegram-blue {
+  fill: #2aabee;
+}
+.color-trello-blue {
+  fill: #0052cc;
+}
+.color-trello-light-blue {
+  fill: #2684ff;
+}
+.color-tumblr-blue {
+  fill: #011835;
+}
+.color-twitch-purple {
+  fill: #6440a4;
+}
+.color-twitter-blue {
+  fill: #1778f2;
+}
+.color-ubisoft-pink {
+  fill: #F56FAD;
+}
+.color-ubisoft-pink-alternate {
+  fill: #C32BAD;
+}
+.color-ultimateguitar-yellow {
+  fill: #FFC600;
+}
+.color-urbandictionary-orange {
+  fill: #FFAA00;
+}
+.color-venmo-blue {
+  fill: #3d95ce;
+}
+.color-vimeo-blue {
+  fill: #1ab7ea;
+}
+.color-wikipedia-grey {
+  fill: #37474F;
+}
+.color-xbox-green {
+  fill: #107c10;
+}
+.color-xbox-green-alternate {
+  fill: #0b560b;
+}
+.color-xda-orange {
+  fill: #f59714;
+}
+.color-yelp-red {
+  fill: #d32422;
+}
+.color-youtube-red {
+  fill: #f00;
+}
+</style>
