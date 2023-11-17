@@ -1,0 +1,28 @@
+<!--- <a href="https://forum.xda-developers.com"> --->
+<svg id="circle-svg-xda-orange"
+  width="35" height="35"
+  viewBox="0 0 24 24"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  role="img" aria-hidden="true" focusable="false"
+  preserveAspectRatio="xMidYMid meet">
+  <!--- Color Classes --->
+  <style type="text/css">
+    .color-xda-orange {
+      fill: #f59714;
+    }
+    .color-white {
+      fill: #ffffff;
+    }
+  </style>
+  <!--- Background --->
+  <circle id="bg-xda-orange"
+    class="color-xda-orange"
+    cx="12" cy="12" r="12" />
+  <!--- Logo --->
+  <path id="logo-xda-orange"
+    class="color-white"
+    transform="scale(0.58,0.58) translate(8.7,11.45)"
+    d="M13.84 3.052V0h7.843v17.583H13.84v-3.024h4.591V3.052zM5.569 14.53V3.024h4.592V0H2.318v17.583H6.98L10.16 24v-9.483z" />
+</svg>
