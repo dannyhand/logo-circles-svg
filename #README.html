@@ -1,0 +1,54 @@
+<!--- Logo circle files should follow approximately the following formula: --->
+<!--- File name : servicename.svg.html --->
+<!--- Contents : --->
+
+<!--- <a href="https://SERVICENAME.COM"> --->
+<!--- X and Y in the viewBox field will be numbers defining the canvas size. --->
+<svg id="circle-svg-SERVICENAME-BACKGROUNDCOLOR"
+  width="35" height="35"
+  viewBox="0 0 X Y"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img" aria-hidden="true" focusable="false"
+  preserveAspectRatio="xMidYMid meet">
+  <!--- Color Classes --->
+  <style type="text/css">
+    /* Place style classes in alphabetical order. */
+    .color-SERVICENAME-BACKGROUNDCOLOR {
+      fill: #BACKGROUNDCOLOR-HEX;
+    }
+    .color-white {
+      fill: #ffffff;
+    }
+    /* stroke is typically not used or included */
+    .stroke-black {
+      fill: #000000;
+    }
+  </style>
+  <!--- Background --->
+  <!--- X and Y are half of their respective values in the viewBox field above, defining the center of the background circle. --->
+  <!--- R = the larger of cx(X) or cy(Y), defining the radius of the circle. --->
+  <circle id="bg-SERVICENAME-BACKGROUNDCOLOR"
+    class="color-SERVICENAME-BACKGROUNDCOLOR"
+    cx="X" cy="Y" r="R" />
+  <!--- Logo --->
+  <!--- Group <g> element may not be used, but in case it is, use this styling convention. --->
+  <!--- When naming the id of a <g> or <path> element, the BACKGROUNDCOLOR will be the last part of the id. This is to differentiate easily between separate SVG where only the color is changed. i.e. logo-reddit-orange and logo-reddit-blue --->
+  <!--- The optional transform field, as well as the class field, could be located inside the <g> element if applied to each <path> element inside, or it could located inside an individual <path> element if only that particular PATHDATA needs to be affected. --->
+  <!--- scale(X,Y) will cause PATHDATA to shrink or grow. i.e. scale(0.5,0.5) would halve the size while maintaining the same aspect ratio. --->
+  <!--- translate(X,Y) will move PATHDATA along the X and Y axis of the canvas defined by the viewBox field. --->
+  <g id="logo-SERVICENAME-group-BACKGROUNDCOLOR"
+    class="color-white"
+    transform="scale(X,Y) translate(X,Y)">
+    <!--- LOGOPIECE is optional, to be used for multi-part logos. i.e. logo-patreon-rectangle-red and logo-patreon-circle-red --->
+    <path id="logo-SERVICENAME-PIECE1-BACKGROUNDCOLOR"
+      d="PATHDATA" />
+    <path id="logo-SERVICENAME-PIECE2-BACKGROUNDCOLOR"
+      d="PATHDATA" />
+  </g>
+  <!--- In the case there is not a <g> element, use this styling convention. --->
+  <path id="logo-SERVICENAME-BACKGROUNDCOLOR"
+    class="color-white"
+    transform="scale(X,Y) translate(X,Y)"
+    d="PATHDATA" />
+</svg>
