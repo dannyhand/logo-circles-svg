@@ -1,0 +1,33 @@
+<!--- <a href="https://www.gmbinder.com/"> --->
+<svg id="circle-svg-gmbinder-purple"
+  width="35" height="35"
+  viewBox="0 0 88 35"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img" aria-hidden="true" focusable="false"
+  preserveAspectRatio="xMidYMid meet">
+  <!--- Color Classes --->
+  <style type="text/css">
+    .color-gmbinder-purple {
+      fill: #240e61;
+    }
+    .color-white {
+      fill: #ffffff;
+    }
+  </style>
+  <!--- Background --->
+  <circle id="bg-gmbinder-purple"
+    class="color-gmbinder-purple"
+    cx="44" cy="17.5" r="44" />
+  <!--- Logo --->
+  <g id="logo-gmbinder-group-purple"
+    class="color-white"
+    transform="scale(0.685,0.685) translate(20,7)">
+    <path id="logo-gmbinder-book-purple"
+      d="M16.1015 0.065918L0 26.8488V34.7137H87.5731V26.8488L71.4979 0.065918L84.8807 25.5841L43.7997 31.1172L2.7186 25.5841L16.1015 0.065918Z" />
+    <path id="logo-gmbinder-g-purple"
+      d="M20.9083 0.118567L10.047 21.9875L42.3287 26.2823L42.4207 9.59072L29.156 9.03741L28.0134 13.6088L34.5801 14.0436L33.9891 17.4952L21.867 16.4281L25.6757 5.9942H42.3287L42.355 0L20.9083 0.118567Z" />
+    <path id="logo-gmbinder-m-purple"
+      d="M60.5709 20.0905L53.4921 11.7645L54.6084 25.1493L45.3231 26.335V0.065918H52.6121L59.1131 8.11527L62.2651 0.065918H67.3871L78.4191 22.093L68.5691 23.384L65.0757 11.0399" />
+  </g>
+</svg>

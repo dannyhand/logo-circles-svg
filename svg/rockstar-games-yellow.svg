@@ -1,0 +1,35 @@
+<!--- <a href="https://rockstargames.com/"> --->
+<svg id="circle-svg-rockstar-yellow"
+  width="35" height="35"
+  viewBox="0 0 340 340"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  role="img" aria-hidden="true" focusable="false"
+  preserveAspectRatio="xMidYMid meet">
+  <!--- Color Classes --->
+  <style type="text/css">
+    .color-rockstar-yellow {
+      fill: #FFA500;
+    }
+    .color-white {
+      fill: #ffffff;
+    }
+  </style>
+  <!--- Background --->
+  <circle id="bg-rockstar-yellow"
+    class="color-rockstar-yellow"
+    cx="170" cy="170" r="170" />
+  <!--- Logo --->
+  <g id="logo-rockstar-group-yellow"
+    class="color-white"
+    transform="scale(1,1) translate(-17,0)">
+    <path id="logo-rockstar-R-yellow"
+      d="M127.423 64.013l62.975.149c13.161-.099 22.989 2.002 29.48 6.303 7.928 5.272 11.89 14.343 11.89 27.213 0 21.19-9.828 33.195-29.482 36.012v.297c8.667 2.159 13.048 9.335 13.146 21.528 0 6.245-.233 14.245-.7 24 0 6.542 1.384 12.202 4.156 16.98H184.38c-1.611-1.747-2.416-5.305-2.416-10.677.66-8.98.99-16.347.99-22.098 0-11.617-5.582-17.425-16.746-17.425h-22.329l-9.738 46.987h-33.613l26.895-129.269zm53.236 26.941h-24.744l-6.453 31.192h26.775c14.967 0 22.497-5.906 22.595-17.721.001-8.98-6.058-13.47-18.173-13.47z" />
+    <path id="logo-rockstar-star-outline-yellow"
+      d="M223.456 196.346l24.915-43.18 6.717 43.478h42.506l-38.349 27.534 6.14 43.18-33.204-26.05-44.633 27.089 20.878-45.973-24.333-26.2 39.363.122z" />
+    <path id="logo-rockstar-star-hole-yellow"
+      class="color-rockstar-yellow"
+      d="M252.503 221.088l25.47-18.142h-28.177l-4.881-31.464-17.882 31.168h-28.467l17.302 18.587-14.305 31.193 31.052-18.735 24.48 19.18-4.592-31.787z" />
+  </g>
+</svg>
