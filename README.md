@@ -25,7 +25,7 @@ Beginning of the Image:
 > - `width=` and `height=` may be adjusted.
 > - `viewBox=` needs values matching `0, 0, width, height` of the logo, plus a little for padding.
 
-***
+##
 
 CSS Color Definitions:
 ```html
