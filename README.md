@@ -11,7 +11,6 @@ logo-circles-svg is a repo of svg code that you can insert into your web page (i
 ## What's inside these files?
 
 ###### Beginning of the Image; includes the address of the service:
-##
 ```html
 <!--- <a href="https://github.com/"> --->
 <svg id="circle-svg-github-grey"
@@ -23,7 +22,6 @@ logo-circles-svg is a repo of svg code that you can insert into your web page (i
 ```
 > `width=` and `height=` may be adjusted
 ###### Color Definitions:
-##
 ```html
   <style type="text/css">
     .color-github-grey { fill: #24292d; }
@@ -31,7 +29,6 @@ logo-circles-svg is a repo of svg code that you can insert into your web page (i
   </style>
 ```
 ###### The Circular Background:
-##
 ```html
   <circle id="bg-github-grey"
     class="color-github-grey"
@@ -40,4 +37,4 @@ logo-circles-svg is a repo of svg code that you can insert into your web page (i
 > The center points, `cx` and `cy`, are half of the width and height values defined above for the viewBox.
 > The radius of the circle, `r` = the larger of `cx` or `cy`.
 ###### The Logo:
-##
+
