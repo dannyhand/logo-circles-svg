@@ -10,7 +10,7 @@ logo-circles-svg is a repo of svg code that you can insert into your web page (i
 
 ## What's inside these files?
 
-Beginning of the Image; includes the address of the service:
+Beginning of the Image:
 ```html
 <!--- <a href="https://github.com/"> --->
 <svg id="circle-svg-github-grey"
@@ -21,7 +21,9 @@ Beginning of the Image; includes the address of the service:
   <title>GitHub</title>
 ```
 
-> `width=` and `height=` may be adjusted
+> - The web address of the service is included as a comment.
+> - `width=` and `height=` may be adjusted.
+> - `viewBox=` needs values matching `0, 0, width, height` of the logo, plus a little for padding.
 
 ***
 
@@ -41,8 +43,8 @@ The Circular Background:
     class="color-github-grey"
     cx="12" cy="12" r="12" />
 ```
-> The center points, `cx` and `cy`, are half of the width and height values defined above for the viewBox.
-> The radius of the circle, `r` = the larger of `cx` or `cy`.
+> - The center points, `cx` and `cy`, are half of the width and height values defined above for the viewBox.
+> - The radius of the circle, `r` = the larger of `cx` or `cy`.
 
 ***
 
