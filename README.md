@@ -35,7 +35,7 @@ CSS Color Definitions:
   </style>
 ```
 
-***
+##
 
 The Circular Background:
 ```html
@@ -46,7 +46,7 @@ The Circular Background:
 > - The center points, `cx` and `cy`, are half of the width and height values defined above for the viewBox.
 > - The radius of the circle, `r` = the larger of `cx` or `cy`.
 
-***
+##
 
 The Logo:
 
