@@ -20,14 +20,21 @@ Beginning of the Image; includes the address of the service:
   role="graphics-symbol img" 
   <title>GitHub</title>
 ```
+
 > `width=` and `height=` may be adjusted
-Color Definitions:
+
+***
+
+CSS Color Definitions:
 ```html
   <style type="text/css">
     .color-github-grey { fill: #24292d; }
     .color-white { fill: #ffffff; }
   </style>
 ```
+
+***
+
 The Circular Background:
 ```html
   <circle id="bg-github-grey"
@@ -36,5 +43,8 @@ The Circular Background:
 ```
 > The center points, `cx` and `cy`, are half of the width and height values defined above for the viewBox.
 > The radius of the circle, `r` = the larger of `cx` or `cy`.
+
+***
+
 The Logo:
 
