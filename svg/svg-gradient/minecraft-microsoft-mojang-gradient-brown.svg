@@ -1,0 +1,36 @@
+<!--- <a href="http://minecraft.net"> --->
+<svg id="circle-svg-minecraft-gradient-brown"
+  width="35" height="35"
+  viewBox="0 0 1024 1024"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  role="link button img"
+  preserveAspectRatio="xMidYMid meet">
+  <!--- Color Classes --->
+  <style type="text/css">
+    .color-minecraft-gradient-brown {
+      fill: url(#color-gradient-brown-minecraft);
+    }
+    .color-white {
+      fill: #ffffff;
+    }
+  </style>
+  <!--- Define the color gradient used for the background. --->
+  <defs>
+    <linearGradient id="color-gradient-brown-minecraft"
+      x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop stop-color="#C28340" offset="0%" />
+      <stop stop-color="#61371F" offset="100%" />
+    </linearGradient>
+  </defs>
+  <!--- Background --->
+  <circle id="bg-minecraft-gradient-brown"
+    class="color-minecraft-gradient-brown"
+    cx="512" cy="512" r="512" />
+  <!--- Logo --->
+  <path id="logo-minecraft-gradient-brown"
+    class="color-white"
+    transform="scale(0.6,0.6) translate(340,340)"
+    d="M512 1024L0 768V256L512 0l512 256v512zm448-736L512 64L64 288v96h64v64h64v-64h64v64h64v64h64v-64l64 32v96h64v-64h64v64h64v-64h64v-96l64-32v64h64v-96l64-32v64h64v-96zm-704 96z" />
+</svg>
