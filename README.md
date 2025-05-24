@@ -4,7 +4,7 @@
 
 logo-circles-svg is a repo of svg code that you can insert into your web page (if you want your visitor to see a circle with a logo inside of it)
 
-![facebook](svg/facebook-blue.svg)
+<img src="./svg/facebook-blue.svg">
 
 ## But why?
 
