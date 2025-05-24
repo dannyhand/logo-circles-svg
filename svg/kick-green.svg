@@ -1,0 +1,26 @@
+<!--- <a href="https://kick.com"> --->
+<svg id="circle-svg-kick-green"
+  width="35" height="35"
+  viewBox="0 0 300 300"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  role="link button img"
+  preserveAspectRatio="xMidYMid meet">
+  <!--- Color Classes --->
+  <style type="text/css">
+    .color-kick-green {
+      fill: #53FC18;
+    }
+    .color-white {
+      fill: #ffffff;
+    }
+  </style>
+  <!--- Background --->
+  <circle id="bg-kick-green"
+    class="color-kick-green"
+    cx="150" cy="150" r="150" />
+  <!--- Logo --->
+  <path id="logo-kick-green"
+    class="color-white"
+    d="m76.667 67.5h55v36.667h18.333v-18.333h18.334v-18.333h55v55h-18.334v18.333h-18.333v18.334h18.333v18.333h18.334v55h-55v-18.333h-18.334v-18.334h-18.333v36.667h-55z" />
+</svg>
