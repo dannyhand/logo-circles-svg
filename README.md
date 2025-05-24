@@ -4,6 +4,8 @@
 
 logo-circles-svg is a repo of svg code that you can insert into your web page (if you want your visitor to see a circle with a logo inside of it)
 
+![facebook](svg/facebook-blue.svg)
+
 ## But why?
 
 - I wanted [my website](https://moist.biz) to work like a business card of sorts, with links to my profiles elsewhere.
@@ -19,8 +21,10 @@ Beginning of the Image:
 <svg id="circle-svg-github-grey"
   width="35" height="35"
   viewBox="0 0 24 24"
+  version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  role="graphics-symbol img" 
+  role="link button img"
+  preserveAspectRatio="xMidYMid meet">
   <title>GitHub</title>
 ```
 
