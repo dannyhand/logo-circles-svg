@@ -1,4 +1,4 @@
-<!--- <a href="https://sourceforge.net/"> --->
+<!-- <a href="https://sourceforge.net/"> -->
 <svg id="circle-svg-sourceforge-orange"
   width="35" height="35"
   viewBox="0 0 120 120"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Sourceforge</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-sourceforge-orange {
       fill: #f60;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-sourceforge-orange"
     class="color-sourceforge-orange"
     cx="60" cy="60" r="60" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-sourceforge-orange"
     class="color-white"
     transform="scale(0.7,0.7) translate(27,34)"

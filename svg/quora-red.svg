@@ -1,4 +1,4 @@
-<!--- <a href="https://quora.com/"> --->
+<!-- <a href="https://quora.com/"> -->
 <svg id="circle-svg-quora-red"
   width="35" height="35"
   viewBox="0 0 56 56"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Quora</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-quora-red {
       fill: #b92b27;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-quora-red"
     class="color-quora-red"
     cx="28" cy="28" r="28" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-quora-red"
     class="color-white"
     transform="scale(0.6,0.6) translate(20,20)"

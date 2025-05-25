@@ -1,13 +1,13 @@
-<!--- <a href="https://forum.xda-developers.com"> --->
+<!-- <a href="https://forum.xda-developers.com"> -->
 <svg id="circle-svg-xda-orange"
   width="35" height="35"
   viewBox="0 0 24 24"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>xda</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-xda-orange {
       fill: #f59714;
@@ -16,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-xda-orange"
     class="color-xda-orange"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-xda-orange"
     class="color-white"
     transform="scale(0.58,0.58) translate(8.7,11.45)"

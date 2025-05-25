@@ -1,4 +1,4 @@
-<!--- <a href="https://skype.com/"> --->
+<!-- <a href="https://skype.com/"> -->
 <svg id="circle-svg-skype-blue"
   width="35" height="35"
   viewBox="0 0 24 24"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Skype</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-skype-blue {
       fill: #0478d7;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-skype-blue"
     class="color-skype-blue"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-skype-blue"
     class="color-white"
     transform="scale(0.7,0.7) translate(5.25,5.25)"

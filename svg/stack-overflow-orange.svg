@@ -1,4 +1,4 @@
-<!--- <a href="https://stackoverflow.com/"> --->
+<!-- <a href="https://stackoverflow.com/"> -->
 <svg id="circle-svg-stackoverflow-orange"
   width="35" height="35"
   viewBox="0 0 24 24"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Stack Overflow</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-stackoverflow-orange {
       fill: #F47F24;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-stackoverflow-orange"
     class="color-stackoverflow-orange"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <g id="logo-stackoverflow-group-orange"
     class="color-white"
     transform="scale(0.617,0.617) translate(7.45,7.45)">

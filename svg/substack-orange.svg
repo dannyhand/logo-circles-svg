@@ -1,4 +1,4 @@
-<!--- <a href="https://substack.com/"> --->
+<!-- <a href="https://substack.com/"> -->
 <svg id="circle-svg-substack-orange"
   width="35" height="35"
   viewBox="0 0 448 512"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Substack</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-substack-orange {
       fill: #FF681A;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-substack-orange"
     class="color-substack-orange"
     cx="224" cy="256" r="256" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-substack-orange"
     class="color-white"
     transform="scale(0.5,0.5) translate(220,270)"

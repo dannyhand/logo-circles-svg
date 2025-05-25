@@ -1,4 +1,4 @@
-<!--- <a href="https://www.ultimate-guitar.com/"> --->
+<!-- <a href="https://www.ultimate-guitar.com/"> -->
 <svg id="circle-svg-ultimateguitar-yellow"
   width="35" height="35"
   viewBox="0 0 42 42"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/240/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Ultimate Guitar</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-ultimateguitar-yellow {
       fill: #FFC600;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-ultimateguitar-yellow"
     class="color-ultimateguitar-yellow"
     cx="21" cy="21" r="21" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-ultimateguitar-yellow"
     class="color-white"
     transform="scale(0.85,0.85) translate(4.0,4.1)"

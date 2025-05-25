@@ -1,4 +1,4 @@
-<!--- <a href="https://riotgames.com/"> --->
+<!-- <a href="https://riotgames.com/"> -->
 <svg id="circle-svg-riot-red"
   width="35" height="35"
   viewBox="0 0 150 150"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Riot Games</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-riot-red {
       fill: #d22a36;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-riot-red"
     class="color-riot-red"
     cx="75" cy="75" r="75" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-riot-red"
     class="color-white"
     transform="scale(0.61,0.61) translate(42,50)"

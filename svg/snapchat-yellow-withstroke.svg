@@ -1,4 +1,4 @@
-<!--- <a href="https://www.snapchat.com/"> --->
+<!-- <a href="https://www.snapchat.com/"> -->
 <svg id="circle-svg-snapchat-yellow-withstroke"
   width="35" height="35"
   viewBox="0 0 24 24"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Snapchat</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-snapchat-yellow {
       fill: #fefc00;
@@ -18,11 +19,11 @@
       stroke: #000000;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-snapchat-yellow-withstroke"
     class="color-snapchat-yellow"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-snapchat-yellow-withstroke"
     class="color-white stroke-black"
     transform="scale(0.617,0.617) translate(7.45,7.45)"

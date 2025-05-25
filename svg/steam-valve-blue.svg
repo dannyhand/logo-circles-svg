@@ -1,4 +1,4 @@
-<!--- <a href="https://steamcommunity.com"> --->
+<!-- <a href="https://steamcommunity.com"> -->
 <svg id="circle-svg-steam-blue"
   width="35" height="35"
   viewBox="0 0 233 233"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Steam</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-steam-blue {
       fill: #136497;
@@ -16,11 +17,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-steam-blue"
     class="color-steam-blue"
     cx="116.5" cy="116.5" r="116.5" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-steam-blue"
     transform="scale(0.75,0.75) translate(55,45)"
     class="color-white"

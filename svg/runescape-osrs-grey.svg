@@ -1,3 +1,4 @@
+<!-- <a href="https://runescape.com/"> -->
 <svg id="circle-svg-osrs-grey"
   width="35" height="35"
   viewBox="0 0 36 36"
@@ -5,6 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
+  <title>OSRS</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-osrs-grey {
       fill: #37474F;
@@ -13,9 +16,11 @@
       fill: #ffffff;
     }
   </style>
+  <!-- Background -->
   <circle id="bg-osrs-grey"
     class="color-osrs-grey"
     cx="18" cy="18" r="18" />
+  <!-- Logo -->
   <path id="logo-osrs-grey"
     class="color-white"
     transform="scale(0.8,0.8) translate(-28,-26)"

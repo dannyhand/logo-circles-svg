@@ -1,4 +1,4 @@
-<!--- <a href="https://www.pinterest.com/"> --->
+<!-- <a href="https://www.pinterest.com/"> -->
 <svg id="circle-svg-pinterest-red"
   width="35" height="35"
   viewBox="0 0 24 24"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Pinterest</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-pinterest-red {
       fill: #e60122;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-pinterest-red"
     class="color-pinterest-red"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-pinterest-red"
     class="color-white"
     transform="scale(0.685,0.685) translate(5.5,5.5)"

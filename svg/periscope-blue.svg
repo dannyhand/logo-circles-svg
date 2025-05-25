@@ -1,4 +1,4 @@
-<!--- <a href="https://www.pscp.tv/"> --->
+<!-- <a href="https://www.pscp.tv/"> -->
 <svg id="circle-svg-periscope-blue"
   width="35" height="35"
   viewBox="0 0 300 300"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Periscope</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-periscope-blue {
       fill: #3FA4C4;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-periscope-blue"
     class="color-periscope-blue"
     cx="150" cy="150" r="150" />
-  <!--- Logo --->
+  <!-- Logo -->
   <g id="logo-periscope-group-blue"
     transform="scale(1,1) translate(23,-4)">
     <path id="logo-periscope-outer-blue"

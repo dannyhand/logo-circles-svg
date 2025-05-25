@@ -1,4 +1,4 @@
-<!--- <a href="https://venmo.com/"> --->
+<!-- <a href="https://venmo.com/"> -->
 <svg id="circle-svg-venmo-blue"
   width="35" height="35"
   viewBox="0 0 512 512"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Venmo</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-venmo-blue {
       fill: #3d95ce;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-venmo-blue"
     class="color-venmo-blue"
     cx="256" cy="256" r="256" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-venmo-blue"
     class="color-white"
     transform="translate(70,450) scale(0.00928,-0.00928)"

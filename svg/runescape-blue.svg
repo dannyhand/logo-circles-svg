@@ -1,3 +1,4 @@
+<!-- <a href="https://runescape.com/"> -->
 <svg id="circle-svg-runescape-blue"
   width="35" height="35"
   viewBox="0 0 64 64"
@@ -5,17 +6,21 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
+  <title>RuneScape</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-runescape-blue {
-    fill: #38738f;
+      fill: #38738f;
     }
     .color-white {
-    fill: #ffffff;
+      fill: #ffffff;
     }
   </style>
+  <!-- Background -->
   <circle id="bg-runescape-blue"
     class="color-runescape-blue"
     cx="32" cy="32" r="32" />
+  <!-- Logo -->
   <g id="logo-runescape-group-blue"
     class="color-white"
     transform="scale(0.9,0.9) translate(2,4)">

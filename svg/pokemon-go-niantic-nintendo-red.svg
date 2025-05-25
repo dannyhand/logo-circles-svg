@@ -1,13 +1,13 @@
-<!--- <a href="https://pokemongo.gishan.net/"> --->
+<!-- <a href="https://pokemongo.gishan.net/"> -->
 <svg id="circle-svg-pokemongo-red"
   width="35" height="35"
   viewBox="0 0 24 24"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Pokemon GO</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-pokemongo-red {
       fill: #E70009;
@@ -16,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-pokemongo-red"
     class="color-pokemongo-red"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-pokemongo-red"
     class="color-white"
     transform="scale(0.8,0.8) translate(3,3)"

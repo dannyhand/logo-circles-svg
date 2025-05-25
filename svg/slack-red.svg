@@ -1,4 +1,4 @@
-<!--- <a href="https://slack.com/"> --->
+<!-- <a href="https://slack.com/"> -->
 <svg id="circle-svg-slack-red"
   width="35" height="35"
   viewBox="0 0 2500 2500"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Slack</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-slack-red {
       fill: #e01e5a;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-slack-red"
     class="color-slack-red"
     cx="1250" cy="1250" r="1250" />
-  <!--- Logo --->
+  <!-- Logo -->
   <g id="logo-slack-group-red"
     class="color-white"
     transform="scale(0.6,0.6) translate(860,850)">

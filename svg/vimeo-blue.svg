@@ -1,13 +1,13 @@
-<!--- <a href="https://vimeo.com/"> --->
+<!-- <a href="https://vimeo.com/"> -->
 <svg id="circle-svg-vimeo-blue"
   width="35" height="35"
   viewBox="0 0 24 24"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Vimeo</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-vimeo-blue {
       fill: #1ab7ea;
@@ -16,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-vimeo-blue"
     class="color-vimeo-blue"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-vimeo-blue"
     class="color-white"
     transform="scale(0.55,0.55) translate(9,11)"

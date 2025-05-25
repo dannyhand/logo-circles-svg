@@ -1,13 +1,13 @@
-<!--- <a href="https://rockstargames.com/"> --->
+<!-- <a href="https://rockstargames.com/"> -->
 <svg id="circle-svg-rockstar-yellow"
   width="35" height="35"
   viewBox="0 0 340 340"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Rockstar Games</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-rockstar-yellow {
       fill: #FFA500;
@@ -16,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-rockstar-yellow"
     class="color-rockstar-yellow"
     cx="170" cy="170" r="170" />
-  <!--- Logo --->
+  <!-- Logo -->
   <g id="logo-rockstar-group-yellow"
     class="color-white"
     transform="scale(1,1) translate(-17,0)">
