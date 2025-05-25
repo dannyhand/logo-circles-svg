@@ -1,4 +1,4 @@
-<!--- <a href="https://bscscan.com/"> --->
+<!-- <a href="https://bscscan.com/"> -->
 <svg id="circle-svg-bnb-yellow"
   width="35" height="35"
   viewBox="0 0 58 58"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>BNB</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-bnb-yellow {
       fill: #f0b90b;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-bnb-yellow"
     class="color-bnb-yellow"
     cx="29" cy="29" r="29" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-bnb-yellow"
     class="color-white"
     transform="scale(0.7,0.7) translate(12.5,12)"

@@ -1,13 +1,13 @@
-<!--- <a href="https://www.kickstarter.com"> --->
+<!-- <a href="https://www.kickstarter.com"> -->
 <svg id="circle-svg-kickstarter-green"
   width="35" height="35"
   viewBox="0 0 32 32"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Kickstarter</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-kickstarter-green {
       fill: #05CE78;
@@ -16,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-kickstarter-green"
     class="color-kickstarter-green"
     cx="16" cy="16" r="16" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-kickstarter-green"
     class="color-white"
     transform="scale(0.55,0.55) translate(13.8,12.5)"

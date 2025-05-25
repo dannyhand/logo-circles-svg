@@ -1,4 +1,4 @@
-<!--- <a href="https://www.disqus.com/"> --->
+<!-- <a href="https://www.disqus.com/"> -->
 <svg id="circle-svg-disqus-blue"
   width="35" height="35"
   viewBox="0 0 200 200"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Disqus</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-disqus-blue {
       fill: #2E9FFF;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-disqus-blue"
     class="color-disqus-blue"
     cx="100" cy="100" r="100" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-disqus-blue"
     class="color-white"
     transform="scale(0.8,0.8) translate(25,25)"

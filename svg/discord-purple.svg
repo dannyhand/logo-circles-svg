@@ -1,4 +1,4 @@
-<!--- <a href="https://discord.com/"> --->
+<!-- <a href="https://discord.com/"> -->
 <svg id="circle-svg-discord-purple"
   width="35" height="35"
   viewBox="0 0 24 24"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Discord</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-discord-purple {
       fill: #7289DA;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-discord-purple"
     class="color-discord-purple"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-discord-purple"
     class="color-white"
     transform="scale(0.617,0.617) translate(7.45,7.45)"

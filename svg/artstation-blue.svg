@@ -1,4 +1,4 @@
-<!--- <a href="https://www.artstation.com/"> --->
+<!-- <a href="https://www.artstation.com/"> -->
 <svg id="circle-svg-artstation-blue"
   width="35" height="35"
   viewBox="0 0 210 200"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>ArtStation</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-artstation-blue {
       fill: #13AFF0;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-artstation-blue"
     class="color-artstation-blue"
     cx="105" cy="100" r="105" />
-  <!--- Logo --->
+  <!-- Logo -->
   <g id="logo-artstation-group-blue"
     class="color-white"
     transform="scale(1,1) translate(0,-6.5)">

@@ -1,4 +1,4 @@
-<!--- <a href="https://codepen.io/"> --->
+<!-- <a href="https://codepen.io/"> -->
 <svg id="circle-svg-codepen-grey"
   width="35" height="35"
   viewBox="0 0 24 24"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Codepen</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-codepen-grey {
       fill: #1e1f26;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-codepen-grey"
     class="color-codepen-grey"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-codepen-grey"
     class="color-white"
     transform="scale(0.617,0.617) translate(7.45,7.45)"

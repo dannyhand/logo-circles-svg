@@ -1,4 +1,4 @@
-<!--- <a href="http://cash.app/"> --->
+<!-- <a href="http://cash.app/"> -->
 <svg id="circle-svg-cashapp-green"
   width="35" height="35"
   viewBox="0 0 64 64"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>CashApp</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-cashapp-green {
       fill: #00d632;
@@ -16,11 +17,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-cashapp-green"
     class="color-cashapp-green"
     cx="32" cy="32" r="32" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-cashapp-green"
     class="color-white"
     transform="scale(0.8,0.8) translate(8,8)"

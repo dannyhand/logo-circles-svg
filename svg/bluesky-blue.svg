@@ -1,4 +1,4 @@
-<!--- <a href="https://bsky.social"> --->
+<!-- <a href="https://bsky.social"> -->
 <svg id="circle-svg-bluesky-blue"
   width="35" height="35"
   viewBox="0 0 600 540"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Bluesky</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-bluesky-blue {
       fill: #1185fe;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-bluesky-blue"
     class="color-bluesky-blue"
     cx="300" cy="270" r="300" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-bluesky-blue"
     class="color-white"
     transform="scale(0.62,0.62) translate(180,180)"

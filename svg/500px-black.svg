@@ -1,4 +1,4 @@
-<!--- <a href="https://500px.com/"> --->
+<!-- <a href="https://500px.com/"> -->
 <svg id="circle-svg-500px-black"
   width="35" height="35"
   viewBox="0 0 24 24"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>500px</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-black {
       fill: #000000;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-500px-black"
     class="color-black"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-500px-black"
     class="color-white"
     transform="scale(0.645,0.645) translate(6,7)"

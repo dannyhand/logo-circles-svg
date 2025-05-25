@@ -1,13 +1,13 @@
-<!--- <a href="https://gitlab.com"> --->
+<!-- <a href="https://gitlab.com"> -->
 <svg id="circle-svg-gitlab-orange"
   width="35" height="35"
   viewBox="0 0 68 68"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Gitlab</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-gitlab-orange {
       fill: #F96424;
@@ -16,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-gitlab-orange"
     class="color-gitlab-orange"
     cx="34" cy="34" r="34" />
-  <!--- Logo --->
+  <!-- Logo -->
   <g id="logo-gitlab-group-orange"
     class="color-white"
     transform="scale(0.6,0.6) translate(24,28)">

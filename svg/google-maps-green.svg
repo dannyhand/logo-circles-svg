@@ -1,13 +1,13 @@
-<!--- <a href="https://www.google.com/maps/"> --->
+<!-- <a href="https://www.google.com/maps/"> -->
 <svg id="circle-svg-googlemaps-green"
   width="35" height="35"
   viewBox="0 0 24 24"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Google Maps</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-googlemaps-green {
       fill: #1aa260;
@@ -16,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-googlemaps-green"
     class="color-googlemaps-green"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-googlemaps-green"
     class="color-white"
     transform="scale(0.685,0.685) translate(5.5,5.5)"

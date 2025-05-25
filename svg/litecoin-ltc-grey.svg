@@ -1,4 +1,4 @@
-<!--- <a href="https://live.blockcypher.com/ltc/"> --->
+<!-- <a href="https://live.blockcypher.com/ltc/"> -->
 <svg id="circle-svg-ltc-grey"
   width="35" height="35"
   viewBox="0 0 24 24"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Litecoin</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-ltc-grey {
       fill: #bebebe;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-ltc-grey"
     class="color-ltc-grey"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-ltc-grey"
     class="color-white"
     transform="scale(0.8,0.8) translate(3,3)"

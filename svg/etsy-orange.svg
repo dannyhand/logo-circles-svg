@@ -1,4 +1,4 @@
-<!--- <a href="https://www.etsy.com"> --->
+<!-- <a href="https://www.etsy.com"> -->
 <svg id="circle-svg-etsy-orange"
   width="35" height="35"
   viewBox="0 0 24 24"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Etsy</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-etsy-orange {
       fill: #f45800;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-etsy-orange"
     class="color-etsy-orange"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-etsy-orange"
     class="color-white"
     transform="scale(0.585,0.585) translate(8.5,8.5)"

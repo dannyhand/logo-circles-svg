@@ -1,4 +1,4 @@
-<!--- <a href="https://www.linkedin.com"> --->
+<!-- <a href="https://www.linkedin.com"> -->
 <svg id="circle-svg-linkedin-blue"
   width="35" height="35"
   viewBox="0 0 24 24"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>LinkedIn</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-linkedin-blue {
       fill: #0d66c2;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-linkedin-blue"
     class="color-linkedin-blue"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-linkedin-blue"
     class="color-white"
     transform="scale(0.617,0.617) translate(7.45,7.45)"

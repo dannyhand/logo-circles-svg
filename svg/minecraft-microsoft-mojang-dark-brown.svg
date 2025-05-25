@@ -1,13 +1,13 @@
-<!--- <a href="http://minecraft.net"> --->
+<!-- <a href="http://minecraft.net"> -->
 <svg id="circle-svg-minecraft-dark-brown"
   width="35" height="35"
   viewBox="0 0 1024 1024"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Minecraft</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-minecraft-dark-brown {
       fill: #61371F;
@@ -17,11 +17,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-minecraft-dark-brown"
     class="color-minecraft-dark-brown"
     cx="512" cy="512" r="512" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-minecraft-dark-brown"
     class="color-white"
     transform="scale(0.6,0.6) translate(340,340)"

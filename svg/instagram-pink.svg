@@ -1,4 +1,4 @@
-<!--- <a href="http://instagram.com"> --->
+<!-- <a href="http://instagram.com"> -->
 <svg id="circle-svg-instagram-pink"
   width="35" height="35"
   viewBox="0 0 24 24"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Instagram</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-instagram-pink {
       fill: #f00075;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-instagram-pink"
     class="color-instagram-pink"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-instagram-pink"
     class="color-white"
     transform="scale(0.685,0.685) translate(5.5,5.5)"

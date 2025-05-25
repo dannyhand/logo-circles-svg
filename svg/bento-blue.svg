@@ -1,4 +1,4 @@
-<!--- <a href="https://bento.me"> --->
+<!-- <a href="https://bento.me"> -->
 <svg id="circle-svg-bento-blue"
   width="35" height="35"
   viewBox="0 0 46 46"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Bento</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-bento-blue {
       fill: #768CFF;
@@ -18,11 +19,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-bento-blue"
     class="color-bento-blue"
     cx="23" cy="23" r="23" />
-  <!--- Logo --->
+  <!-- Logo -->
   <g id="logo-bento-group-blue"
   transform="scale(0.75,0.75) translate(8.5,9.5)">
     <path id="bento-shadow-blue"

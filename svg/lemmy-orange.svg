@@ -1,4 +1,4 @@
-<!--- <a href="http://lemmy.world/"> --->
+<!-- <a href="http://lemmy.world/"> -->
 <svg id="circle-svg-lemmy-orange"
   width="35" height="35"
   viewBox="0 0 1200 1200"
@@ -6,7 +6,8 @@
   xmlns="http://www.w3.org/2000/svg"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Lemmy</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-lemmy-orange {
       fill: #ff4500;
@@ -15,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-lemmy-orange"
     class="color-lemmy-orange"
     cx="600" cy="600" r="600" />
-  <!--- Logo --->
+  <!-- Logo -->
   <g id="logo-lemmy-orange-group"
     transform="translate(90,90)">
     <path id="logo-lemmy-orange-head-outline" class="color-white"

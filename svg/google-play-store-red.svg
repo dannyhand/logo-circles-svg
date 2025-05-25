@@ -1,13 +1,13 @@
-<!--- <a href="https://play.google.com/store/apps/"> --->
+<!-- <a href="https://play.google.com/store/apps/"> -->
 <svg id="circle-svg-googleplay-red"
   width="35" height="35"
   viewBox="0 0 274 274"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Google Play</title>
+  <!-- Color Classes -->
   <style type="text/css">
     /* blue: #00D3FF; green: #00EE76; red: #F43249; yellow: #FFD900; */
     .color-googleplay-red {
@@ -26,11 +26,11 @@
       stroke-width: 8;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-googleplay-red"
     class="color-googleplay-red"
     cx="137" cy="137" r="137" />
-  <!--- Logo --->
+  <!-- Logo -->
   <g id="logo-googleplay-group-triangle-red"
     transform="scale(0.55,0.55) translate(153,115)">
     <path id="logo-googleplay-right-yellow-red"

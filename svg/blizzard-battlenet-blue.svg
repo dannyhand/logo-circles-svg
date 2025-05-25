@@ -1,13 +1,13 @@
-<!--- <a href="https://us.shop.battle.net/en-us"> --->
+<!-- <a href="https://us.shop.battle.net/en-us"> -->
 <svg id="circle-svg-blizzard-blue"
   width="35" height="35"
   viewBox="0 0 512 512"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Battle.net</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-blizzard-blue {
       fill: #0566b0;
@@ -16,11 +16,11 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-blizzard-blue"
     class="color-blizzard-blue"
     cx="256" cy="256" r="256" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-blizzard-blue"
     class="color-white"
     transform="scale(0.7,0.7) translate(90,120)"
