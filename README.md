@@ -30,7 +30,7 @@ Beginning of the Image:
 
 > - The web address of the service is included as a comment.
 > - `width=` and `height=` may be adjusted.
-> - `viewBox=` needs values matching `0, 0, width, height` of the logo.
+> - `viewBox=` needs values matching `0, 0, width, height` of the logo data.
 
 ##
 
@@ -74,6 +74,7 @@ If the group <g> element is used:
 > - The optional `transform=` field (as well as the `class=` field) could be located inside the `<g>` element if it needs to be applied to each `<path>` element within. Otherwise it could be located inside an individual `<path>` element if only that particular `d=` needs to be affected.
 >   - `scale(X,Y)` causes `d=` to shrink or grow. -- i.e. `scale(0.5,0.5)` would halve the size while maintaining the same aspect ratio.
 >   - `translate(X,Y)` moves `d=` along the X and Y axis of the canvas defined by the `viewBox=` field.
+> - Some logos use `<polygon>` or `<circle>` or other shapes in addition to `<path>`. Grouping, scale, and translate work the same way for these.
 
 If the group <g> element is not used: 
 
