@@ -1,13 +1,13 @@
-<!--- <a href="https://www.origin.com"> --->
+<!-- <a href="https://www.origin.com"> -->
 <svg id="circle-svg-origin-gradient-orange"
   width="35" height="35"
   viewBox="0 0 32 32"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>EA Origin</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-origin-gradient-orange {
       fill: url(#color-gradient-orange-origin);
@@ -16,7 +16,7 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Define the color gradient used for the background. --->
+  <!-- Define the color gradient used for the background. -->
   <defs>
     <linearGradient id="color-gradient-orange-origin"
       x1="50%" y1="0%" x2="50%" y2="100%">
@@ -24,11 +24,11 @@
       <stop stop-color="#F05A22" offset="100%" />
     </linearGradient>
   </defs>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-origin-gradient-orange"
     class="color-origin-gradient-orange"
     cx="16" cy="16" r="16" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-origin-gradient-orange"
     class="color-white"
     transform="scale(0.7,0.7) translate(7,7)"

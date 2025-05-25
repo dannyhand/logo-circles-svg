@@ -1,13 +1,13 @@
-<!--- <a href="https://pokemongo.gishan.net/"> --->
+<!-- <a href="https://pokemongo.gishan.net/"> -->
 <svg id="circle-svg-pokemongo-gradient-red"
   width="35" height="35"
   viewBox="0 0 24 24"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Pokemon GO</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-pokemongo-gradient-red {
       fill: url(#color-gradient-red-pokemongo);
@@ -16,7 +16,7 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Define the color gradient used for the background. --->
+  <!-- Define the color gradient used for the background. -->
   <defs>
     <linearGradient id="color-gradient-red-pokemongo"
       x1="50%" y1="0%" x2="50%" y2="100%">
@@ -24,11 +24,11 @@
       <stop stop-color="#b40007" offset="100%" />
     </linearGradient>
   </defs>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-pokemongo-gradient-red"
     class="color-pokemongo-gradient-red"
     cx="12" cy="12" r="12" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-pokemongo-gradient-red"
     class="color-white"
     transform="scale(0.8,0.8) translate(3,3)"

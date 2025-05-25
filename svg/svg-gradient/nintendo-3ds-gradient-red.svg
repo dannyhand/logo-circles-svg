@@ -1,13 +1,13 @@
-<!--- <a href="https://www.nintendo.com/"> --->
+<!-- <a href="https://www.nintendo.com/"> -->
 <svg id="circle-svg-3ds-gradient-red"
   width="35" height="35"
   viewBox="0 0 32 32"
   version="1.1"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
   role="link button img"
   preserveAspectRatio="xMidYMid meet">
-  <!--- Color Classes --->
+  <title>Nintendo 3DS</title>
+  <!-- Color Classes -->
   <style type="text/css">
     .color-3ds-gradient-red {
       fill: url(#color-gradient-red-3ds);
@@ -16,7 +16,7 @@
       fill: #ffffff;
     }
   </style>
-  <!--- Define the color gradient used for the background. --->
+  <!-- Define the color gradient used for the background. -->
   <defs>
     <linearGradient id="color-gradient-red-3ds"
       x1="50%" y1="0%" x2="50%" y2="100%">
@@ -24,11 +24,11 @@
       <stop stop-color="#b40007" offset="100%" />
     </linearGradient>
   </defs>
-  <!--- Background --->
+  <!-- Background -->
   <circle id="bg-3ds-gradient-red"
     class="color-3ds-gradient-red"
     cx="16" cy="16" r="16" />
-  <!--- Logo --->
+  <!-- Logo -->
   <path id="logo-3ds-gradient-red"
     class="color-white"
     transform="scale(0.55,0.55) translate(13,13)"
