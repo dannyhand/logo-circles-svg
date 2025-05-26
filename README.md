@@ -6,7 +6,7 @@ logo-circles-svg is a repo of svg code that you can insert into your web page (i
 
 <img src="./svg/facebook-blue.svg"> <img src="./svg/linkedin-blue.svg"> <img src="./svg/snapchat-yellow-withstroke.svg"> <img src="./svg/instagram-pink.svg"> <img src="./svg/discord-purple.svg"> <img src="./svg/reddit-orange.svg"> <img src="./svg/github-grey.svg"> <img src="./svg/bluesky-blue.svg"> <img src="./svg/youtube-red.svg">
 
-You can view all the current icons on one page in [logos.md](./logos.md)
+You can view all the current icons on one page in [icons.md](./icons.md)
 
 ## But why?
 
