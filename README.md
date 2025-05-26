@@ -6,11 +6,14 @@ logo-circles-svg is a repo of svg code that you can insert into your web page (i
 
 <img src="./svg/facebook-blue.svg"> <img src="./svg/linkedin-blue.svg"> <img src="./svg/snapchat-yellow-withstroke.svg"> <img src="./svg/instagram-pink.svg"> <img src="./svg/discord-purple.svg"> <img src="./svg/reddit-orange.svg"> <img src="./svg/github-grey.svg"> <img src="./svg/bluesky-blue.svg"> <img src="./svg/youtube-red.svg">
 
+You can view all the current icons on one page in [logos.md](./logos.md)
+
 ## But why?
 
 - Link to your social and gaming profiles from your website!
 - Little circles take up less space than lots of words.
 - Logos are easily recognizable on sight.
+- It's a simple icon pack that a lot of work has gone into.
 
 ## What's inside these files?
 
@@ -89,4 +92,3 @@ If the group <g> element is not used:
 ##
 
 More to come, and please contribute more logos if you want.
-
